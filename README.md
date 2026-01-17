@@ -102,3 +102,14 @@ GROUP BY cuisines
 ORDER BY restaurant_count DESC;
 ```
 
+### DASHBOARD
+
+<img width="1013" height="565" alt="image" src="https://github.com/user-attachments/assets/ad49aba9-5004-46e6-9af2-a668c6625d99" />
+
+<img width="1018" height="570" alt="image" src="https://github.com/user-attachments/assets/92bdb60a-3ed0-43cc-8c14-13e345fdfdbc" />
+
+<img width="1015" height="570" alt="image" src="https://github.com/user-attachments/assets/70dad4c4-8aeb-4305-afcb-62864f3861b7" />
+
+<img width="1015" height="572" alt="image" src="https://github.com/user-attachments/assets/b19adf6e-67c3-48df-8546-f36593d94397" />
+
+
