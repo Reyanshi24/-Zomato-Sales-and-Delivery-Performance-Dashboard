@@ -1,13 +1,13 @@
-# 📊 Zomato Restaurant Performance & Market Insights Dashboard
+# Zomato Restaurant Performance & Market Insights Dashboard
 
-## 📌 Project Description
+## Project Description
 This project delivers an end-to-end analytical solution to evaluate **restaurant performance, customer preferences, and market trends** using a publicly available **Zomato restaurant dataset**. The objective is to transform raw restaurant-level data into meaningful insights that support **data-driven decision-making** for platform strategy, restaurant onboarding, and service optimization.
 
 The analysis was conducted using **SQL for data exploration and aggregation** and **Power BI for interactive visualization**. Key performance dimensions such as **customer ratings, votes, pricing, cuisine types, online delivery adoption, and table booking availability** were examined to understand their impact on customer engagement and satisfaction across multiple cities.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 Food delivery platforms handle large volumes of restaurant and customer interaction data. However, identifying:
 - High-performing cities and cuisines  
 - Optimal pricing segments  
@@ -18,14 +18,14 @@ This project addresses these challenges by building a **centralized analytics da
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **SQL** – Data cleaning, aggregation, CTEs, window functions  
 - **Power BI** – Interactive dashboards, KPIs, slicers, and visuals  
 - **Excel / CSV** – Source dataset  
 
 ---
 
-## 🗂️ Dataset Overview
+## Dataset Overview
 The dataset contains restaurant-level information including:
 
 - Restaurant Name & ID  
@@ -39,11 +39,11 @@ The dataset contains restaurant-level information including:
 - Table Booking Availability  
 - Latitude & Longitude  
 
-> ⚠️ **Disclaimer:** This dataset is publicly available and used strictly for educational and portfolio purposes. No proprietary or confidential data is included.
+> **Disclaimer:** This dataset is publicly available and used strictly for educational and portfolio purposes. No proprietary or confidential data is included.
 
 ---
 
-## 🧠 SQL Analysis Approach
+## SQL Analysis Approach
 SQL was used to perform structured analysis across multiple dimensions:
 
 - **City-level analysis** to identify restaurant density and performance
@@ -56,7 +56,7 @@ The results of these queries directly power the visuals and KPIs in the Power BI
 
 ---
 
-## 📊 Sample SQL Queries
+## Sample SQL Queries
 
 ### Restaurant Distribution by City
 ```sql
